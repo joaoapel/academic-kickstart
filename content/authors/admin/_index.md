@@ -18,7 +18,7 @@ organizations:
   url: "https://www5.unioeste.br/portalunioeste/"
 - name: "TERA"
   url: "https://somostera.com/"
-- name "Le Wagon"
+- name: "Le Wagon"
   url: "https://www.lewagon.com/pt-BR"
 
 # Short bio (displayed in user profile at end of posts)
