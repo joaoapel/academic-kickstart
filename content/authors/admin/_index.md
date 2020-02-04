@@ -14,12 +14,11 @@ role: Data Science analyst and Web Developer
 
 # Organizations/Affiliations
 organizations:
-- name: CREA
-  url: "https://www5.unioeste.br/portalunioeste/"
-- name: "TERA"
-  url: "https://somostera.com/"
-- name: "Le Wagon"
-  url: "https://www.lewagon.com/pt-BR"
+- name: "CREA"
+  url: "http://www.confea.org.br/"
+- name: "PMI"
+  url: "https://www.pmi.org/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include data for social analysis and development with Clojure.
