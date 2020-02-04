@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: João Apel
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Science analyst and Web Developer
 
 # Organizations/Affiliations
 organizations:
