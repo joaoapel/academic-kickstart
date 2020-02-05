@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "http://www.bunge.com.br/"
   location = "São Paulo"
   date_start = "2014-01-01"
-  date_end = ""
+  date_end = "2018-12-01"
   description = """Monitorar e controlar as operações de expedição e descarga dos transbordos próprios e de terceiros"""
 
 +++
