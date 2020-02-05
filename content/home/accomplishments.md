@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "01/02/06"
+date_format = "2017-01-01"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,7 +24,7 @@ date_format = "01/02/06"
   title = "Full Stack Web Development"
   url = ""
   certificate_url = ""
-  date_start = "01/02/19"
+  date_start = "2017-01-01"
   date_end = ""
   description = "9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a Rails prototype."
 
