@@ -21,7 +21,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include data for social analysis and development with Clojure.
+bio: My interests include data analysis with Clojure/Python/R.
 
 interests:
 - Artificial Intelligence
@@ -68,9 +68,10 @@ email: "joaoapel@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-João Apel is a web developer
+João Apel is an agricultural engineer that has five years of experience with logistics.
+Currently interested in how to use code improve himself and the world.
