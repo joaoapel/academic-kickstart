@@ -24,18 +24,18 @@ date_format = "Jan 2006"
   title = "Full Stack Web Development"
   url = ""
   certificate_url = ""
-  date_start = "2019"
-  date_end = "2019"
+  date_start = " Feb 2019"
+  date_end = "Abr 2019"
   description = "9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a Rails prototype."
 
 [[item]]
-  organization = "edX"
+  organization = "TERA"
   organization_url = "https://somostera.com.br"
   title = "Data Analysis and Machine Learing"
   url = ""
   certificate_url = ""
-  date_start = "2019"
-  date_end = "2019"
+  date_start = "Feb 2019"
+  date_end = " Apr 2019"
   description = "Data analysis and machine learnig with Python stack."
 
 
