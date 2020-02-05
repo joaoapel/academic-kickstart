@@ -26,7 +26,7 @@ date_format = "2017-01-01"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = "9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a Rails prototype."
+  description = """9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a Rails prototype."""
 
 [[item]]
   organization = "TERA"
@@ -34,9 +34,9 @@ date_format = "2017-01-01"
   title = "Data Analysis and Machine Learing"
   url = ""
   certificate_url = ""
-  date_start = "04/02/19"
+  date_start = "2017-01-01"
   date_end = ""
-  description = "Data analysis and machine learnig with Python stack."
+  description = """Data analysis and machine learnig with Python stack."""
 
 
 +++
