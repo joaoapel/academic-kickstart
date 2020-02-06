@@ -46,6 +46,8 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
                   :x-label "x" :y-label "y")
     (.createBufferedImage 600 400))
 ```
+Porque a figura não carrega?
+
 ![Example image](/static/img/a.png)
 
 
