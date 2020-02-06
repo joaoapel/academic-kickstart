@@ -49,4 +49,4 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
 ![Example image](/static/img/a.png)
 
 
-{{< figure src="/static/a.png" >}}
+{{< figure src="/static/img/a.png"  >}}
