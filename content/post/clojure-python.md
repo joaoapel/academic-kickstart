@@ -13,7 +13,7 @@ analista.
 
 O Clojure por outro lado não possui a mesma tradição nesta área, apesar disso temos várias bibliotecas que podem ser utilizadas como: [Incanter](https://github.com/incanter/incanter), entre outras exposta no [Scicloj](https://scicloj.github.io/). Porém é interessante aprender o paradigma funcional para tentarmos deixar o nosso código em Python com menos [efeitos colaterais](http://pythonclub.com.br/progrmacao-funcional-com-python-1.html).
 
-Além disso o com o Clojure temos acesso a máquina virtual Java (JVM). Ou seja, podemos
+Além disso com o Clojure temos acesso a máquina virtual Java (JVM). Ou seja, podemos
 acessar aplicativos escritos em Java, como: Hadoop, Spark e Hive. Por exemplo temos
 as bibliotecas [Sparkling](https://gorillalabs.github.io/sparkling/) para Spark e para Hadoop temos [Cascalog](https://github.com/nathanmarz/cascalog).
 
@@ -24,5 +24,11 @@ em métodos e compartilhar dados entre elas.
 
 Outra é a [panthera](https://github.com/alanmarazzi/panthera) que une o trabalho anterior
 com a famosa biblioteca Pandas do Python para ingestão e manipulação de dados tabulares.
+
+## Como ?
+
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/LpkBAUDg53FI8xLmg1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-mood-LpkBAUDg53FI8xLmg1">via GIPHY</a></p>
+
+
 
 [//]: # ([I'm a link](https://www.google.com))

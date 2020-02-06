@@ -34,6 +34,10 @@ education:
     institution: Unioeste
     year: 2011
     url: "https://www5.unioeste.br/portalunioeste/"
+  - course: Masters Degree in Agricultural Engineering
+    institution: Unioeste
+    year: 2014
+    url: "https://somostera.com/"  
   - course: Data Analysis and Machine Learing
     institution: TERA
     year: 2019
