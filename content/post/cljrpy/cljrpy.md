@@ -27,7 +27,7 @@ com a famosa biblioteca Pandas do Python para ingestão e manipulação de dados
 
 ## Como ?
 
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/LpkBAUDg53FI8xLmg1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-mood-LpkBAUDg53FI8xLmg1">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/LpkBAUDg53FI8xLmg1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-mood-LpkBAUDg53FI8xLmg1"></a></p>
 
 Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://github.com/clojupyter/clojupyter).
 
@@ -37,7 +37,7 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
 ```clojure
 (require '[clojupyter.misc.helper :as helper])
 (helper/add-dependencies '[incanter "1.5.7"])
-(use '(incanter core stats charts io)) ; include Incanter's facilities into working namespace
+(use '(incanter core stats charts io))
 ```
 
 ```clojure
@@ -46,9 +46,4 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
                   :x-label "x" :y-label "y")
     (.createBufferedImage 600 400))
 ```
-Porque a figura não carrega?
-
-![Example image](/img/a.png)
-
-
 {{<figure src="/img/a.png" width="100%">}}
