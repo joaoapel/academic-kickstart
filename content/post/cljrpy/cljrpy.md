@@ -48,7 +48,7 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
 ```
 Porque a figura não carrega?
 
-![Example image](/static/img/a.png)
+![Example image](/img/a.png)
 
 
 {{<figure src="/img/a.png" width="100%">}}
