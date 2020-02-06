@@ -46,3 +46,6 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
                   :x-label "x" :y-label "y")
     (.createBufferedImage 600 400))
 ```
+
+
+{{< figure src="/a.png" title="Win" width="100%" >}}
