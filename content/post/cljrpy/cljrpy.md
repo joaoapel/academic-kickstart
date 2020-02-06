@@ -34,4 +34,15 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
 [//]: # ([I'm a link](https://www.google.com))
 
 
-<iframe width="100%" height="150" name="iframe" src="/cl.html"></iframe>
+```clojure
+(require '[clojupyter.misc.helper :as helper])
+(helper/add-dependencies '[incanter "1.5.7"])
+(use '(incanter core stats charts io)) ; include Incanter's facilities into working namespace
+```
+
+```clojure
+(-> (scatter-plot (sample-normal 1000)
+                  (sample-normal 1000)
+                  :x-label "x" :y-label "y")
+    (.createBufferedImage 600 400))
+```
