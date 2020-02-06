@@ -11,11 +11,11 @@ O Python junto com R são as linguagens de programação mais utilizadas no mund
 análise de dados. E possum milhares de bibliotecas que facilitam muito a vida do
 analista.
 
-O Clojure por outro lado não possui a mesma tradição nesta área, apesar disso temos várias bibliotecas que podem ser utilizadas como: [Incanter](https://github.com/incanter/incanter), entre outras exposta no [Scicloj](https://scicloj.github.io/). Porém é interessante aprender o paradigma funcional para tentarmos deixar o nosso código em Python com menos [efeitos colaterais](http://pythonclub.com.br/progrmacao-funcional-com-python-1.html).
+O Clojure por outro lado não possui a mesma tradição nesta área, apesar disso temos várias bibliotecas que podem ser utilizadas como: [incanter](https://github.com/incanter/incanter), entre outras exposta no [Scicloj](https://scicloj.github.io/). Porém é interessante aprender o paradigma funcional para tentarmos deixar o nosso código em Python com menos [efeitos colaterais](http://pythonclub.com.br/progrmacao-funcional-com-python-1.html).
 
 Além disso com o Clojure temos acesso a máquina virtual Java (JVM). Ou seja, podemos
-acessar aplicativos escritos em Java, como: Hadoop, Spark e Hive. Por exemplo temos
-as bibliotecas [Sparkling](https://gorillalabs.github.io/sparkling/) para Spark e para Hadoop temos [Cascalog](https://github.com/nathanmarz/cascalog).
+interagir com aplicativos escritos em Java, como: Hadoop, Spark e Hive. Por exemplo temos
+as bibliotecas [sparkling](https://gorillalabs.github.io/sparkling/) para Spark e para Hadoop temos [cascalog](https://github.com/nathanmarz/cascalog).
 
 ## Apresentando libpython-clj e panthera
 
@@ -29,6 +29,13 @@ com a famosa biblioteca Pandas do Python para ingestão e manipulação de dados
 
 <div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/LpkBAUDg53FI8xLmg1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-mood-LpkBAUDg53FI8xLmg1">via GIPHY</a></p>
 
+Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://github.com/clojupyter/clojupyter).
 
+<iframe
+      src="./<clojupyter.html>"
+      width="90%"
+      height="1000px"
+      style="border:none;">
+</iframe>
 
 [//]: # ([I'm a link](https://www.google.com))
