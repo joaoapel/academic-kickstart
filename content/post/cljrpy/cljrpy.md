@@ -51,4 +51,4 @@ Porque a figura não carrega?
 ![Example image](/static/img/a.png)
 
 
-{{<figure src="/img/a.png" height="200" width="200">}}
+{{<figure src="/img/a.png" width="100%">}}
