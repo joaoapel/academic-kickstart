@@ -31,6 +31,6 @@ com a famosa biblioteca Pandas do Python para ingestão e manipulação de dados
 
 Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://github.com/clojupyter/clojupyter).
 
-<iframe src="./clojupyter.html" width="90%" height="1000px" style="border:none;"></iframe>
+<iframe src="./clojupyter" width="100%" height="1000px" style="border:none;"></iframe>
 
 [//]: # ([I'm a link](https://www.google.com))
