@@ -33,6 +33,5 @@ Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://
 
 [//]: # ([I'm a link](https://www.google.com))
 
-{{< rawhtml >}}
-  <iframe src="./clojupyter.html" width="100%" height="1000px" style="border:none;"></iframe>
-{{< rawhtml >}}
+
+<iframe src="/clojupyter.html" width="100%" height="1000px" style="border:none;"></iframe>
