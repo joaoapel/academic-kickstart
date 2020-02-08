@@ -32,7 +32,7 @@ com a famosa biblioteca Pandas do Python para ingestão e manipulação de dados
 Para criar a estrutura do projeto vou utilizar o pacote
 do Python que se chama [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) para padronizar como os dados e scripts serão distribuídos.
 
-``` shell session
+```shell
 .
 ├── data
 │   ├── external
