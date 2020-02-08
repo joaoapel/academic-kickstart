@@ -29,6 +29,54 @@ com a famosa biblioteca Pandas do Python para ingestão e manipulação de dados
 
 <div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/LpkBAUDg53FI8xLmg1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-mood-LpkBAUDg53FI8xLmg1"></a></p>
 
+Para criar a estrutura do projeto vou utilizar o pacote
+do Python que se chama [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) para padronizar como os dados e scripts serão distribuídos.
+
+``` shell session
+.
+├── data
+│   ├── external
+│   ├── interim
+│   ├── processed
+│   └── raw
+├── docs
+│   ├── commands.rst
+│   ├── conf.py
+│   ├── getting-started.rst
+│   ├── index.rst
+│   ├── make.bat
+│   └── Makefile
+├── LICENSE
+├── Makefile
+├── models
+├── notebooks
+├── README.md
+├── references
+├── reports
+│   └── figures
+├── requirements.txt
+├── setup.py
+├── src
+│   ├── data
+│   │   ├── __init__.py
+│   │   └── make_dataset.py
+│   ├── features
+│   │   ├── build_features.py
+│   │   └── __init__.py
+│   ├── __init__.py
+│   ├── models
+│   │   ├── __init__.py
+│   │   ├── predict_model.py
+│   │   └── train_model.py
+│   └── visualization
+│       ├── __init__.py
+│       └── visualize.py
+├── test_environment.py
+└── tox.ini
+
+16 directories, 23 files
+```
+
 Como gosto de usar o Jupyter Notebook vou usar a bibliteca [clojupyter](https://github.com/clojupyter/clojupyter).
 
 [//]: # ([I'm a link](https://www.google.com))
