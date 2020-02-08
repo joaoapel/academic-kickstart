@@ -90,7 +90,7 @@ address = {street = "Rua Iraci, 548", city = "São Paulo", region = "SP", postco
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-23.58022", longitude = "-46.69952"}
+coordinates = {latitude = "-23.575490", longitude = "-46.694220"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -106,7 +106,7 @@ coordinates = {latitude = "-23.58022", longitude = "-46.69952"}
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/joaoapel"},
-  {icon = "instagram", icon_pack = "fab", name = "DM me", link = "https://www.instagram.com/joaoapel/"},
+  {icon = "instagram", icon_pack = "fab", name = "DM Me", link = "https://www.instagram.com/joaoapel/"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #%{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
