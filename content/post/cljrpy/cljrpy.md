@@ -33,51 +33,6 @@ Para criar a estrutura do projeto vou utilizar o pacote
 do Python que se chama [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) para padronizar como os dados e scripts serão distribuídos.
 
 ```sh
-.
-├── data
-│   ├── external
-│   ├── interim
-│   ├── processed
-│   └── raw
-├── docs
-│   ├── commands.rst
-│   ├── conf.py
-│   ├── getting-started.rst
-│   ├── index.rst
-│   ├── make.bat
-│   └── Makefile
-├── LICENSE
-├── Makefile
-├── models
-├── notebooks
-├── README.md
-├── references
-├── reports
-│   └── figures
-├── requirements.txt
-├── setup.py
-├── src
-│   ├── data
-│   │   ├── __init__.py
-│   │   └── make_dataset.py
-│   ├── features
-│   │   ├── build_features.py
-│   │   └── __init__.py
-│   ├── __init__.py
-│   ├── models
-│   │   ├── __init__.py
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-│   └── visualization
-│       ├── __init__.py
-│       └── visualize.py
-├── test_environment.py
-└── tox.ini
-
-16 directories, 23 files
-```
-
-```sh
 ├── LICENSE
 ├── Makefile           <- Makefile with commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
@@ -92,7 +47,7 @@ do Python que se chama [cookiecutter](https://drivendata.github.io/cookiecutter-
 ├── models             <- Trained and serialized models, model predictions, or model      
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimiteddescription,e.g.
+│                         the creators initials, and a short `-` delimiteddescription,e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
